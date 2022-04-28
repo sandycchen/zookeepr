@@ -126,6 +126,61 @@
         "loving"
       ],
       "id": "12"
+    },
+    {
+      "name": "hih",
+      "species": "khhugj",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "jboi",
+      "species": "pipih",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "koioh",
+      "species": "oho",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "dfh",
+      "species": "dfhfdh",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "jboi",
+      "species": "sgszgsd",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious"
+      ],
+      "id": "17"
     }
   ]
 }
